@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deepak
+- 👋 Hi, I’m @Deepak
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ... gmail - deepaksbmj@gmail.com
 
