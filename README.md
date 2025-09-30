@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me ... gmail - deepaksbmj@gmail.com
+- 📫 How to reach me ... gmail - deepaksingh22431@gmail.com
 
 <!---
 deepaksbmj/deepaksbmj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
